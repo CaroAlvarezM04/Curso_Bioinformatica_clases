@@ -1,2 +1,2 @@
-# Curso_Bioinformatica_clases
-Rproyect que incluye los scripts, plots y bases de datos sobre un curso básico de Bioinformática de la Licenciatura en Microbiología.
+# Curso_Bioinformatica
+Scripts, plots and databases on a basic course in Bioinformatics of the Bachelor's Degree in Microbiology.
